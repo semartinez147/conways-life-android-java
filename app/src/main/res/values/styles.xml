@@ -7,4 +7,13 @@
     <item name="colorAccent">@color/colorAccent</item>
   </style>
 
+  <style name="Counter" parent="TextAppearance.AppCompat.Large.Inverse">
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000</item>
+    <item name="android:shadowDx">1.5</item>
+    <item name="android:shadowDy">1.5</item>
+    <item name="android:shadowRadius">1.5</item>
+
+  </style>
+
 </resources>
